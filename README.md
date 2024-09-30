@@ -30,6 +30,14 @@ Este projeto é uma aplicação web que fornece informações em tempo real sobr
 - Backend: Node.js, Express, Axios
 - Frontend: React, Vite
 - API: OpenWeather
+
+  ## Participantes
+
+- Arthur Amaral: RM556951
+- Caue Garaude: RM554838 - Turma 1ESPV noturno
+- Luiz Henrique: RM556001
+- Rafael Jango: RM555297
+- Rafael Bocchi: RM557603
   
 ## Pré-requisitos
 Node.js (v14 ou superior)
