@@ -46,7 +46,7 @@ npm (v6 ou superior)
 ## Instalação
 1. **Clonando o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Caue-Garaude/seu-repositorio.git
 cd seu-repositorio
 ```
 2. **Configurando o Backend**
