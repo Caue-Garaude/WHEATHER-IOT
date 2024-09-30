@@ -46,8 +46,8 @@ npm (v6 ou superior)
 ## Instalação
 1. **Clonando o Repositório**
 ```bash
-git clone https://github.com/Caue-Garaude/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Caue-Garaude/WEATHER-IOT.git
+cd WHEATHER-IOT
 ```
 2. **Configurando o Backend**
 1. Acesse a pasta do backend:
